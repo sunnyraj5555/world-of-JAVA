@@ -3,11 +3,13 @@ public class Area
 	// Main function
 	public static void main(String arg[])
 	{
-		int b=Integer.parseInt(arg[0]);
-		int h=Integer.parseInt(arg[1]);
-		double r=triArea(b,h);
-		System.out.println("Area of the Triangle="+r);
+		int s=Integer.parseInt(arg[0]);
+		double r=sqrArea(s);
+		System.out.println("Area of the Square="+r);
 	}
-
-
+            //Function
+		static double sqrArea(int s)
+		{
+		return (s*s); // returning area
+		}
 }
