@@ -7,5 +7,9 @@ public class Area
 		double r=triArea(b,h);
 		System.out.println("Area of the Triangle="+r);
 	}
+		static double triArea(int b, int h)
+		{
+			return (0.5*b*h);
+		}
 
 }
