@@ -1,12 +1,23 @@
-public class Main 
+public class Myclass 
 {
 	....
 }
 -> Every line of code that runs in Java must be inside a class. 
-In our example, we named the class Main.
+In our example, we named the class Myclass.
 -> A class should always start with an uppercase first letter.
 -> When saving the file, save it using the class name and add ".java" to the end of the filename.
 -> Java is case-sensitive: "MyClass" and "myclass" has different meaning.
 
+public class Main 
+{
+  public static void main(String[] args) 
+  {
+    System.out.println("Hello World");
+  }
+}
 
+-> main() method
+The main() method is required and you will see it in every Java program:
+NOTE: every Java program has a class name which must match the 
+filename, and that every program must contain the main() method.
 
