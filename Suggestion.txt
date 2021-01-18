@@ -1,0 +1,10 @@
+public class Main 
+{
+	....
+}
+-> Every line of code that runs in Java must be inside a class. 
+In our example, we named the class Main.
+-> A class should always start with an uppercase first letter.
+
+
+
