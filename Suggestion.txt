@@ -48,3 +48,19 @@ double -> float -> long -> int -> char -> short -> byte
 A String variable contains a collection of characters surrounded by double quotes:
 
 
+-> String length() method:
+A String in Java is actually an object, which contain methods that can perform 
+certain operations on strings. For example, the length of a string can be found with the length() method.
+
+-> toUpperCase() and toLowerCase()method:
+
+-> Finding a character in a string:
+The indexOf() method returns the index (the position) of the first occurrence of a specified text in a string (including whitespace).
+
+-> String Concatenation
+concat() method and + operator is used to concatenate two strings.
+
+WARNING!
+Java uses the + operator for both addition and concatenation.
+Numbers are added. Strings are concatenated.
+
