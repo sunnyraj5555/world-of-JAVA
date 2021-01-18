@@ -27,4 +27,10 @@ filename, and that every program must contain the main() method.
 -> println() method
 Inside the main() method, we can use the println() method to print a line of text to the screen.
 
+-> Java variables [ type variable = value; ]
+1. String: String name =”sunny”;
+2. Int: int num = 2;
+3. Float: float n1 = 4.34;
+4. Char: char letter =’D’;
+5. Boolean: boolean myBool = true;
 
