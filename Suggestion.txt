@@ -43,3 +43,8 @@ byte -> short -> char -> int -> long -> float -> double
 --> Narrowing Casting (manually) - converting a larger type to a smaller size type
 double -> float -> long -> int -> char -> short -> byte
 
+
+->Java String
+A String variable contains a collection of characters surrounded by double quotes:
+
+
