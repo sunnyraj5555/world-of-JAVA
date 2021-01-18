@@ -24,3 +24,7 @@ filename, and that every program must contain the main() method.
 -> The curly braces {} marks the beginning and the end of a block of code.
 -> Each code statement must end with a semicolon.
 
+-> println() method
+Inside the main() method, we can use the println() method to print a line of text to the screen.
+
+
