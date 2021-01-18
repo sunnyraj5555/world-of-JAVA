@@ -5,6 +5,8 @@ public class Main
 -> Every line of code that runs in Java must be inside a class. 
 In our example, we named the class Main.
 -> A class should always start with an uppercase first letter.
+-> When saving the file, save it using the class name and add ".java" to the end of the filename.
+-> Java is case-sensitive: "MyClass" and "myclass" has different meaning.
 
 
 
