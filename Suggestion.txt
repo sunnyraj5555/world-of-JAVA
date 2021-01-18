@@ -1,0 +1,66 @@
+public class Myclass 
+{
+	....
+}
+-> Every line of code that runs in Java must be inside a class. 
+In our example, we named the class Myclass.
+-> A class should always start with an uppercase first letter.
+-> When saving the file, save it using the class name and add ".java" to the end of the filename.
+-> Java is case-sensitive: "MyClass" and "myclass" has different meaning.
+
+public class Main 
+{
+  public static void main(String[] args) 
+  {
+    System.out.println("Hello World");
+  }
+}
+
+-> main() method
+The main() method is required and you will see it in every Java program:
+NOTE: every Java program has a class name which must match the 
+filename, and that every program must contain the main() method.
+
+-> The curly braces {} marks the beginning and the end of a block of code.
+-> Each code statement must end with a semicolon.
+
+-> println() method
+Inside the main() method, we can use the println() method to print a line of text to the screen.
+
+-> Java variables [ type variable = value; ]
+1. String: String name =”sunny”;
+2. Int: int num = 2;
+3. Float: float n1 = 4.34;
+4. Char: char letter =’D’;
+5. Boolean: boolean myBool = true;
+
+-> Java Type Casting:
+Type casting is when you assign a value of one primitive data type to another type.
+
+--> Widening Casting (automatically) - converting a smaller type to a larger type size
+byte -> short -> char -> int -> long -> float -> double
+
+--> Narrowing Casting (manually) - converting a larger type to a smaller size type
+double -> float -> long -> int -> char -> short -> byte
+
+
+->Java String
+A String variable contains a collection of characters surrounded by double quotes:
+
+
+-> String length() method:
+A String in Java is actually an object, which contain methods that can perform 
+certain operations on strings. For example, the length of a string can be found with the length() method.
+
+-> toUpperCase() and toLowerCase()method:
+
+-> Finding a character in a string:
+The indexOf() method returns the index (the position) of the first occurrence of a specified text in a string (including whitespace).
+
+-> String Concatenation
+concat() method and + operator is used to concatenate two strings.
+
+WARNING!
+Java uses the + operator for both addition and concatenation.
+Numbers are added. Strings are concatenated.
+
