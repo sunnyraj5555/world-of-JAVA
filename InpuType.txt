@@ -1,0 +1,10 @@
+Some Method which read some specific Type of value from user
+           
+1. nextBoolean() Reads a "boolean" value from the user
+2. nextByte()    Reads a "byte" value from the user 
+3. nextDouble()	 Reads a "double" value from the user
+4. nextFloat()	 Reads a "float" value from the user
+5. nextInt()	 Reads a "int" value from the user
+6. nextLine()	 Reads a "String" value from the user
+7. nextLong()	 Reads a "long" value from the user
+8. nextShort()	 Reads a "short" value from the user 
