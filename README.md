@@ -14,3 +14,5 @@ In our example, we named the class ```Myclass```. <br />
 - A class should always start with an **UPPERCASE** first letter. <br />
 - When saving the file, save it using the class name and add **".java"** to the end of the filename.
 - Java is case-sensitive: ```MyClass``` and ```myclass``` has different meaning.
+- Data abstraction is the process of hiding certain details and showing only essential information to the user.
+Abstraction can be achieved with either abstract classes or interfaces
